@@ -10,5 +10,3 @@
 ### ● My bot (Top.gg):
 [![Discord Bots](https://top.gg/api/widget/645561062271352833.svg)](https://top.gg/bot/645561062271352833)
 
-### ● My bot (Discord.boats):
-[![Discord Bots](https://discord.boats/api/widget/645561062271352833?type=svg)](https://discord.boats/bot/645561062271352833/)
