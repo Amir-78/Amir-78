@@ -7,6 +7,4 @@
 ### ☉ My discord:
 [![Discord Banner 4](https://discordapp.com/api/guilds/649281025398013952/widget.png?style=banner4)](https://discord.gg/nN5uA5qGnA)
 
-### ● My bot (Top.gg):
-[![Discord Bots](https://top.gg/api/widget/645561062271352833.svg)](https://top.gg/bot/645561062271352833)
 
