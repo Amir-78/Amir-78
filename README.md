@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/amirdev_" target="blank"><img src="https://img.shields.io/twitter/follow/amirdev_?logo=twitter&style=for-the-badge" alt="amirdev_" /></a> </p>
 
-- 🔭 I’m currently working on [Irelia Services](https://discord.gg/Ea3tKD2em2)
-
-- 🌱 I’m currently learning **Ruby, Perl**
+- 🔭 I’m currently working on [VALORAT DZ](https://discord.gg/vdz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
