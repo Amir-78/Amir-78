@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-78&label=Profile%20views&color=0e6cb4&style=flat-square" alt="amir-78" /> </p>
 
-<p align="left"> <a href="https://twitter.com/amirdev_" target="blank"><img src="https://img.shields.io/twitter/follow/amirdev_?logo=twitter&style=for-the-badge" alt="amirdev_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pr1vln" target="blank"><img src="https://img.shields.io/twitter/follow/pr1vln?logo=twitter&style=for-the-badge" alt="pr1vln" /></a> </p>
 
-- 🔭 I’m currently working on [VALORANT DZ](https://discord.gg/vdz)
+- 🔭 My Portfolio: https://amirdev.info
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
