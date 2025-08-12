@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amir</h1>
+<h1 align="center" style="color:#00d4ff;">Hi 👋, I'm Amir</h1>
 <h3 align="center">An Algerian programmer 🇩🇿</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-78&label=Profile%20views&color=0e6cb4&style=flat-square" alt="amir-78" /> </p>
